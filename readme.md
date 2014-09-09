@@ -36,11 +36,6 @@ Bundler is already installed on your vagrant machine, but running `gem install b
 * <http://ruby.about.com/od/bundler/ss/What-Is-Bundler.htm>
 * <http://yehudakatz.com/2010/09/30/bundler-as-simple-as-what-you-did-before/>
 
-### Testing
-
-It is recommended that you write tests for the Contact class.
-However, it will be more involved to write tests for methods in the `Application` class. As such, you can skip writing tests for this class (for now)
-
 ### Saving Data
 
 In order for this app to work, you will need to save your data in a CSV (Comma-Separated Value) file. This is a very standard file format that is ideal for a Contact List app. To learn more about CSV files and the Ruby library for dealing with them, please read the following link:
