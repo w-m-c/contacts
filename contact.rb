@@ -17,7 +17,7 @@ class Contact
     end
  
     def find(term)
-      # TODO: Will find and return contact that contains the term in the first name, last name or email
+      # TODO: Will find and return contacts that contain the term in the first name, last name or email
     end
  
     def all
