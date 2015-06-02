@@ -16,8 +16,8 @@ class Contact
       # TODO: Will initialize a contact as well as add it to the list of contacts
     end
  
-    def find(index)
-      # TODO: Will find and return contact by index
+    def find(term)
+      # TODO: Will find and return contact that contains the term in the first name, last name or email
     end
  
     def all
